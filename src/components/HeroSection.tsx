@@ -17,7 +17,7 @@ const HeroSection = () => {
           >
             <div className="h-32 w-32 md:h-40 md:w-40 overflow-hidden rounded-full border-4 border-border">
               <img
-                src="https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=400&h=400"
+                src="https://media.licdn.com/dms/image/v2/D5603AQH_f-Xc8NsNuA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726232810918?e=1755129600&v=beta&t=6R5WTaCvmu9KgH36dHkmbfgDWXromCEe7HmR9ABTfIk"
                 alt="Profile"
                 className="h-full w-full object-cover"
               />
@@ -36,7 +36,7 @@ const HeroSection = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              Hi, I'm <span className="text-primary">Your Name</span>
+              Hi, I'm <span className="text-primary">Kavin Rrahul</span>
             </motion.h1>
             
             <motion.p 
