@@ -50,7 +50,7 @@ npm run dev
 ## 🎨 Development Options
 
 ### 💻 Local Development
-Use your favorite IDE to make changes locally, then push to see updates in Lovable.
+Use your favorite IDE to make changes locally, then push to see updates in GitHub.
 
 ### ✏️ GitHub Editor
 Edit files directly in GitHub's web interface - perfect for quick updates!
